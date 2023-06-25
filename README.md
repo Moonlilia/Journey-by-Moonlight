@@ -61,23 +61,58 @@ You may not need to download from the above links as they've likely been install
 
 This modlist is installed via <a href="https://www.wabbajack.org/">**Wabbajack**</a>, a popular and innovative tool which makes modlist installations incredibly simple. Please be sure to do the following steps:
 
-* Have a clean install of Skyrim on Steam. This means it has **no additional or missing** files. If you've modded Skyrim before, and it involved adding to the game folder directly, you can reinstall to ensure it's properly-cleaned.
-* ***Importantly***, ensure your Skyrim install is **not** located in **Program Files**. You can do this by navigating through **Steam > Settings > Storage** and clicking the + to the right of your existing libraries.
-* After a clean install, run Skyrim at least once. You can load to the main menu and close right after. This generates some necessary files.
+1. Have a clean install of Skyrim on Steam. This means it has **no additional or missing** files. If you've modded Skyrim before, and it involved adding to the game folder directly, you can reinstall to ensure it's properly-cleaned.
+
+2. ***Importantly***, ensure your Skyrim install is **not** located in **Program Files**. You can do this by navigating through **Steam > Settings > Storage** and clicking the + to the right of your existing libraries. Then, while in this menu, tick the box next to Skyrim, click **Move**, and move it to the new location.
+3. After a clean install, run Skyrim at least once. You can load to the main menu and close right after. This generates some necessary files.
 
 ## Wabbajack Installation
 
 Once you've done these steps, you can proceed with installing the modlist. Make sure you have Wabbajack installed by this point! You will need to do some prepwork for this step as well, though it's not as bad. You can read these below:
 
- * Create some folders for Wabbajack to make use of. Preferably, name them as follows:
-      * Journey by Moonlight
-      * Wabbajack
-      * JBM Downloads
- * Refer to the image below if needed
+ 1. Create some folders for Wabbajack to make use of. Preferably, name them as follows:
+      * Journey by Moonlight - Placing this on an SSD is recommended but not required
+      * JBM Downloads - Placing this on a separate drive is recommended but not required
+        
+ 2. Assign these folders in Wabbajack. To do so, follow these steps or refer to the image below:
+      * Open Wabbajack and click **Install From Disk**
+      * Click the 3 dots (...) next to **Modlist Installation Location** and navigate to your **Journey by Moonlight** folder
+      * Click the 3 dots (...) next to **Resource Download Location** and navigate to your **JBM Downloads** folder
+        
 <img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/82d1fca5-b85e-4186-96f3-62d2646da6e3" width="900" height="200">
+
+ 3. Additionally, please ensure you have accounts for the following websites:
+      * <a href="https://www.nexusmods.com/">Nexus</a> - A **Premium** subscription is highly-recommended for a faster download
+      * <a href="https://www.loverslab.com/">LoversLab</a>
+      * <a href="https://www.vectorplexis.com/">VectorPlexis</a>
+
+Some files from **LoversLab** and **VectorPlexis** can be installed from the <a href="https://discord.gg/97WvxJp47p">Discord</a> server. However, some will *need* to be installed from the website due to Discord's file size restrictions. A full list of the mods from each **non-Nexus** site can also be found in the server.
+
+## Modlist Installation
+
+1. With these steps taken care of, you can begin downloading **Journey by Moonlight**! The steps and notes below explain this process:
 
  * Download the .zip file from JBM's <a href=" ">Nexus</a> page
       * Extract the file to your **Wabbajack** folder
-      * Inside Wabbajack, click the 3 dots (...) and select the **JourneyByMoonlight.wabbajack** file
+      * Inside Wabbajack, click the 3 dots (...) next to **Target Modlist** and select the **JourneyByMoonlight.wabbajack** file
 
+2. This should complete the preparation steps. Now, click the **Resume** button (the triangle in a circle) in Wabbajack to begin downloading the modlist. Some files will need to be downloaded manually. In such cases, it should open a popup to download the mod from, with a guide at the top to tell you which file(s) to download from that page. Links to each mod are also available in the Discord server, as well as downloads for those below **50 MB**. Simply move them to your **JBM Downloads** folder.
+
+3. You may run into errors while installing the modlist. Wabbajack should tell you which mod it failed on. If rerunning Wabbajack doesn't fix the issue, you can visit the Discord server for a list of links to mods which may have been missed.
+
+4. ***If you run into any issues during the installation process, please consider joining the Discord server and sending a message there.*** :)
+
+5. If the installation is successful, you can create a shortcut for Mod Organizer's .exe in the **Journey by Moonlight** folder.
+
+6. Now for some final steps - choosing the right INI files for your system. Download **JBM - INI Files** from the <a href=" ">Nexus</a> page and extract it to a new folder or open the archive.
+     1. Open the **Profile INIs** folder and choose your resolution. Note that 1920x1080 can work on larger resolution screens as well and is more performance-friendly.
+          * From there, choose your preferred settings. High and Medium have little difference in visuals but Medium yields more FPS
+          * Then, transfer all 3 files (Skyrim.ini, SkyrimCustom.ini, and SkyrimPrefs.ini) to **Journey by Moonlight > Profile > Default**
+            
+     2. Open the **Priority INIs** folder and choose your total CPU cores. Open the MO2 instance for the modlist as well!
+          * In MO2, navigate to the **High Priority - Modlist Files** separator and the **JBM - Skyrim Priority** mod
+          * Right-click the mod and click **Open in Explorer**, navigate **SKSE > Plugins** and drop it in there, replacing the existing file
+          * Refer to the image below for assistance
+      
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/d074207e-606a-4378-8ab6-5f1f5d29ca5c" width="800" height="600">
 
