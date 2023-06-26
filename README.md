@@ -113,6 +113,34 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
           * In MO2, navigate to the **High Priority - Modlist Files** separator and the **JBM - Skyrim Priority** mod
           * Right-click the mod and click **Open in Explorer**, navigate **SKSE > Plugins** and drop it in there, replacing the existing file
           * Refer to the image below for assistance
-      
+   
 <img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/d074207e-606a-4378-8ab6-5f1f5d29ca5c" width="800" height="600">
 
+If you don't know how many cores your CPU has, open Task Manager (Ctrl + Alt = Del) and navigate to **Performance**.
+ * You should see a utilization monitor with some information below. Look for **Cores** and **Logical Processors**. Refer to the image below for help.
+
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/61bab766-3923-4ecb-b709-56adb7dc857a" width="600" height="520">
+
+With these steps finished, you should now be able to proceed with launching the game!
+
+# Starting Your Playthrough
+
+1. Starting the game should be easy enough. **Always** launch the game through the MO2 instance located in your **Journey by Moonlight** folder. Ensure that you open the game through SKSE in MO2, refer to the image below for assistance:
+
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/e7d25e3c-43a6-4a4c-8493-cfdecb25f847" width="800" height="600">
+
+2. After creating a new game, you should be confronted first with an introduction screen with the game title, followed by a view over a Helgen in ruins.
+     * If you're okay with a fully random start, you can simply press **Enter**.
+     * If you'd like to customize it, press **Esc** and open the **MCM** menu. Open **0. Skyrim Unbound** to configure it to your liking and click **Begin Adventure** when done to continue on with character creation.
+  
+3. Once you've created your character and chosen your preferred pronouns, you should do 2 things...
+     1. Open MCM again, click on **- MCM Recorder**, and select the various recordings. Follow the popup prompts and repeat this step until all recordings have played.
+     2. Go through the various MCM menus. If you've done Step 1, you *can* skip this step if you're okay with JBM's default settings.
+          * If you'd like more customization, it's recommended to go through all options from 0 through 3D - Other options can be used but aren't needed.
+              * Options in 0S show up only if you have OStim and its content enabled.
+              * A brief description of each number can be seen below - a more thorough description is available in the Discord server.
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/e1003b49-b9c6-4a93-b48b-63f8f39b909f" width="600" height="350">
+
+After you've set up your game to fit your preferences, you can now proceed with the game! Press **Enter** and select the prompt to start your playthrough.
+
+*If you need any help or run into any issues, feel free to post them in the Discord server. There's sure to be bugs but we can all work on fixing them together* :)
