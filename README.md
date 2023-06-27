@@ -91,6 +91,8 @@ Once you've done these steps, you can proceed with installing the modlist. Make 
 
 Some files from **LoversLab** and **VectorPlexis** can be installed from the <a href="https://discord.gg/97WvxJp47p">Discord</a> server. However, some will *need* to be installed from the website due to Discord's file size restrictions. A full list of the mods from each **non-Nexus** site can also be found in the server.
 
+4. Sign into these accounts on Wabbajack by clicking the Settings icon (The Cog Wheel) in the top-right.
+
 ## Modlist Installation
 
 1. With these steps taken care of, you can begin downloading **Journey by Moonlight**! The steps and notes below explain this process:
