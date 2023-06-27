@@ -20,6 +20,8 @@ JBM was created with the goal of not using an ENB, providing better performance 
 
 **Journey by Moonlight** comes with additional adult content which is *entirely **optional***. It's enabled by default to allow easier setup for those who wish to use it, but it can be safely disabled. Adult mods are properly-categorized in **Mod Organizer 2** via separators to allow for much easier configuration.
 
+If you would like to check the full list of mods, you can do so on the <a href="https://modwat.ch/u/Moonlilia/plugins">Modwatch</a> page
+
 # Requirements
 
 **Journey by Moonlight** was made with performance in mind. However, it's difficult to narrow down the minimum specs needed. You can adjust INI files as desired to fine-tune performance further. Note that JBM is locked to **60 FPS** by default.
