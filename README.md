@@ -64,7 +64,10 @@ This modlist is installed via <a href="https://www.wabbajack.org/">**Wabbajack**
 1. Have a clean install of Skyrim on Steam. This means it has **no additional or missing** files. If you've modded Skyrim before, and it involved adding to the game folder directly, you can reinstall to ensure it's properly-cleaned.
 
 2. ***Importantly***, ensure your Skyrim install is **not** located in **Program Files**. You can do this by navigating through **Steam > Settings > Storage** and clicking the + to the right of your existing libraries. Then, while in this menu, tick the box next to Skyrim, click **Move**, and move it to the new location.
+   
 3. After a clean install, run Skyrim at least once. You can load to the main menu and close right after. This generates some necessary files.
+
+4. Install **Wabbajack**. You can click the link at the top of this category to get started.
 
 ## Wabbajack Installation
 
