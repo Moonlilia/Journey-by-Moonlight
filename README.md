@@ -1,6 +1,6 @@
 # Journey by Moonlight
 
-![JBM Thumbnail](https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/bcd364d7-4ffe-45ea-a7e0-2a131b4ebf84)
+![JBM Thumbnail](https://github.com/Moonlilia/Journey-by-Moonlight/blob/main/JBM%20Thumbnail.png)
 
 -------
 
@@ -44,7 +44,7 @@ JBM was created with the goal of not using an ENB, providing better performance 
 </tbody>
 </table>
 
-These are the *recommended specs* as they match those that the modlist was built and tested on. Your mileage may vary if specs are different. On tehse specs with the default settings for JBM, I get a smooth 60 FPS with a drop of 1 or 2 FPS in heavier areas like Falkreath. With this in mind, systems that are slightly weaker shouldn't have issues with running this modlist.
+These are the *recommended specs* as they match those that the modlist was built and tested on. Your mileage may vary if specs are different. On these specs with the default settings for JBM, I get a smooth 60 FPS with a drop of 1 or 2 FPS in heavier areas like Falkreath. With this in mind, systems that are slightly weaker shouldn't have issues with running this modlist.
 
 ## Besides this, you will need:
 
@@ -53,7 +53,7 @@ These are the *recommended specs* as they match those that the modlist was built
  * <a href="https://aka.ms/vs/16/release/vc_redist.x64.exe">Microsoft Visual C++ Redistributable Package</a>
  * <a href="https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime">Microsoft .NET 5.0</a>
 
-<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/f9aff3db-f3d1-4d59-a19b-c0cacdc1691e" width="300" height="300">
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/97c4dd83-2e3a-46c4-b597-160f41c96d8b" width="300" height="300">
 
 You may not need to download from the above links as they've likely been installed already but it won't hurt to check - they are required after all. After a successful download, and when you've verified the game launches and runs, you can clear your **downloads** folder to free up additional space. This will likely change over time as mods are added and/or removed.
 
@@ -82,7 +82,7 @@ Once you've done these steps, you can proceed with installing the modlist. Make 
       * Click the 3 dots (...) next to **Modlist Installation Location** and navigate to your **Journey by Moonlight** folder
       * Click the 3 dots (...) next to **Resource Download Location** and navigate to your **JBM Downloads** folder
         
-<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/82d1fca5-b85e-4186-96f3-62d2646da6e3" width="900" height="200">
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/7ece10a5-a319-4a98-b6dc-243a644dbefb" width="900" height="200">
 
  3. Additionally, please ensure you have accounts for the following websites:
       * <a href="https://www.nexusmods.com/">Nexus</a> - A **Premium** subscription is highly-recommended for a faster download
@@ -119,12 +119,12 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
           * Right-click the mod and click **Open in Explorer**, navigate **SKSE > Plugins** and drop it in there, replacing the existing file
           * Refer to the image below for assistance
    
-<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/d074207e-606a-4378-8ab6-5f1f5d29ca5c" width="800" height="600">
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/f3af7dd4-9a94-490e-8b58-fc31e11f2973" width="800" height="600">
 
 If you don't know how many cores your CPU has, open Task Manager (Ctrl + Alt = Del) and navigate to **Performance**.
  * You should see a utilization monitor with some information below. Look for **Cores** and **Logical Processors**. Refer to the image below for help.
 
-<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/61bab766-3923-4ecb-b709-56adb7dc857a" width="600" height="520">
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/d2bec486-0655-4fad-b27a-ae2f97c5ff34" width="600" height="520">
 
 With these steps finished, you should now be able to proceed with launching the game!
 
@@ -132,7 +132,7 @@ With these steps finished, you should now be able to proceed with launching the 
 
 1. Starting the game should be easy enough. **Always** launch the game through the MO2 instance located in your **Journey by Moonlight** folder. Ensure that you open the game through SKSE in MO2, refer to the image below for assistance:
 
-<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/e7d25e3c-43a6-4a4c-8493-cfdecb25f847" width="800" height="600">
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/0f9dfe38-0023-4f13-a5b5-72b93e482743" width="800" height="600">
 
 2. After creating a new game, you should be confronted first with an introduction screen with the game title, followed by a view over a Helgen in ruins.
      * If you're okay with a fully random start, you can simply press **Enter**.
@@ -144,7 +144,7 @@ With these steps finished, you should now be able to proceed with launching the 
           * If you'd like more customization, it's recommended to go through all options from 0 through 3D - Other options can be used but aren't needed.
               * Options in 0S show up only if you have OStim and its content enabled.
               * A brief description of each number can be seen below - a more thorough description is available in the Discord server.
-<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/e1003b49-b9c6-4a93-b48b-63f8f39b909f" width="600" height="350">
+<img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/a55b32bc-8c14-492e-a9df-7e571f42e3ac" width="600" height="350">
 
 After you've set up your game to fit your preferences, you can now proceed with the game! Press **Enter** and select the prompt to start your playthrough.
 
