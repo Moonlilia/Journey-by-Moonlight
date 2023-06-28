@@ -202,5 +202,8 @@ After you've set up your game to fit your preferences, you can now proceed with 
 
  6. **Patreon**
        - <a href="https://www.patreon.com/posts/face-part-mod-51534132">Dint's Face Part Mod</a> - Included now that it's public. Adds very high-quality *animated* animal ears (with physics!) for character creation
+
+ 7. **Kaidan**
+       - <a href="https://kaidanmod.com/">Kaidan 2</a> - Tons of addons for one of the greatest male companions. Extended Edition, Inigo Banter, Auto-Sleep, Glad You're Here, Dragon Armor (+ HIMBO Refit), Immersive Features, Skyrim's Got Talent, Slap Da Butt (~~owo~~), and both Lux patches
    
 -------
