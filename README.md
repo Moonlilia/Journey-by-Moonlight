@@ -169,3 +169,38 @@ With these steps finished, you should now be able to proceed with launching the 
 After you've set up your game to fit your preferences, you can now proceed with the game! Press **Enter** and select the prompt to start your playthrough.
 
 *If you need any help or run into any issues, feel free to post them in the Discord server. There's sure to be bugs but we can all work on fixing them together* :)
+
+-------
+
+# Non-Nexus Mods
+
+ * While *most* mods in JBM come from Nexus, not all of them are. There's some great ~~lewd~~ mods out there that aren't available on Nexus, and we will use em. A list of each mod coming from another site will be put here, in the form of links, followed by a brief description.
+
+ 1. **LoversLab**
+       - <a href="https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/">Schlongs of Skyrim</a> - JBM supports OStim content for those who desire it and it needs those appendages. Also, nudity cause it doesn't have to be so taboo :p
+       - <a href="https://www.loverslab.com/files/file/11252-gr-equippable-inari-ears-and-tails-se-smp-spaz490-re/">Inari Ears and Tails</a> - Adds animal ears and tails for character creation. Diversifies creation further
+
+ 2. **VectorPlexis**
+       - <a href="https://vectorplexis.com/files/file/283-high-poly-head/">High Poly Head</a> - Popular for creation and brings it up to more modern standards
+       - <a href="https://vectorplexis.com/files/file/841-cosmos-affordable-hair-galore/">Cosmos Hair Galore</a> - Adds more hairstyles for male characters
+       - <a href="https://vectorplexis.com/files/file/589-hiros-male-hair/">Hiro's Male Hair</a> - Adds more hairstyles for male characters
+
+ 3. **Skyrim Guild**
+       - <a href="https://www.skyrim-guild.com/mods/attack">ADXP MCO</a> - Overhauls combat and makes it more engaging
+       - <a href="https://www.skyrim-guild.com/mods/dodge">Dodge MCO</a> - Adds a dodge mechanic with more believable movement than others. Also supports two dodge types simultaneously
+       - <a href="https://www.skyrim-guild.com/mods/fixedsprintequipbugfix">Slow Sprint Equip Bug Fix</a> - Fixes an obnoxious bug for smoother movement
+
+ 4. **Tumblr**
+       - <a href="https://feeling-artsick.tumblr.com/post/621000027918270464/i-made-a-replacement-for-orc-teeth-for-a-new">Orc Teeth Replacement</a> - Gives proper-looking teeth textures to Orcs, a race often overlooked
+       - <a href="https://skyrimfuckery.tumblr.com/">Adventurer's Wardrobe</a> - Incredible armor that looks *protective* and beautiful
+       - <a href="https://skyrimfuckery.tumblr.com/">Brigandine Redux Armor Pack</a> - Again, amazing armor. Adds plenty of new options
+       - <a href="https://skyrimfuckery.tumblr.com/">Lorisian Armor</a> - Yet again, fantastic quality and comes with a quest
+
+ 5. **Github**
+       - <a href="https://github.com/ArranzCNL/ImprovedCameraSE/releases">Improved Camera</a> - The best first-person camera overhaul available. Great customization as well
+       - <a href="https://github.com/VersuchDrei/OSA-SE/releases/tag/1.3">OSA for OStim</a> - Important addon for OStim
+
+ 6. **Patreon**
+       - <a href="https://www.patreon.com/posts/face-part-mod-51534132">Dint's Face Part Mod</a> - Included now that it's public. Adds very high-quality *animated* animal ears (with physics!) for character creation
+   
+-------
