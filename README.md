@@ -95,6 +95,7 @@ Once you've done these steps, you can proceed with installing the modlist. Make 
  1. Create some folders for Wabbajack to make use of. Preferably, name them as follows:
       * Journey by Moonlight - Placing this on an SSD is recommended but not required
       * JBM Downloads - Placing this on a separate drive is recommended but not required
+            * This is where **all** files you download *manually* need to go, otherwise Wabbajack may not recognize them.
         
  2. Assign these folders in Wabbajack. To do so, follow these steps or refer to the image below:
       * Open Wabbajack and click **Install From Disk**
