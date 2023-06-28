@@ -59,6 +59,23 @@ These are the *recommended specs* as they match those that the modlist was built
 
 You may not need to download from the above links as they've likely been installed already but it won't hurt to check - they are required after all. After a successful download, and when you've verified the game launches and runs, you can clear your **downloads** folder to free up additional space. This will likely change over time as mods are added and/or removed.
 
+### Pagefile Configuration
+
+This will allow Wabbajack to handle installing the modlist with ease but *may* not be necessary. It's highly-recommended to do so if you haven't before.
+
+1. Press **Windows + R** on your Keyboard
+2. Type **sysdm.cpl ,3** and press **Enter**
+3. Under **Performance**, click **Settings**
+4. Click **Advanced** at the top
+5. In the **Virtual Memory** section, click **Change...**
+6. Disable **Automatically manage paging file size for all drives**
+7. Click **Custom Size** and set minimum to at least **20480**, and maximum to at least **40960** if needed
+8. Click **Set**
+9. Click **Apply** and **Ok**
+10. Restart your system
+
+Again, this step is *highly-recommended*. It's a risk you take if you choose to skip this step.
+
 # Installation
 
 This modlist is installed via <a href="https://www.wabbajack.org/">**Wabbajack**</a>, a popular and innovative tool which makes modlist installations incredibly simple. Please be sure to do the following steps:
