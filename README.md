@@ -183,7 +183,11 @@ After you've set up your game to fit your preferences, you can now proceed with 
  2. **VectorPlexis**
        - <a href="https://vectorplexis.com/files/file/283-high-poly-head/">High Poly Head</a> - Popular for creation and brings it up to more modern standards
        - <a href="https://vectorplexis.com/files/file/841-cosmos-affordable-hair-galore/">Cosmos Hair Galore</a> - Adds more hairstyles for male characters
+       		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
        - <a href="https://vectorplexis.com/files/file/589-hiros-male-hair/">Hiro's Male Hair</a> - Adds more hairstyles for male characters
+		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
+       - <a href="https://vectorplexis.com/files/file/289-sv-beards-for-kouleifohs-high-poly-head/">SV Beards HPH</a> - Converts SV Beards to High Poly Head
+       		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
 
  3. **Skyrim Guild**
        - <a href="https://www.skyrim-guild.com/mods/attack">ADXP MCO</a> - Overhauls combat and makes it more engaging
