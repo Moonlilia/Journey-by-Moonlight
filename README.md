@@ -119,7 +119,7 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
 
  * Download the .zip file from JBM's <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94378">Nexus</a> page
       * Extract the file to your **Wabbajack** folder
-      * Inside Wabbajack, click the 3 dots (...) next to **Target Modlist** and select the **JourneyByMoonlight.wabbajack** file
+      * Inside Wabbajack, click the 3 dots (...) next to **Target Modlist** and select the **Journey By Moonlight.wabbajack** file
 
 2. This should complete the preparation steps. Now, click the **Resume** button (the triangle in a circle) in Wabbajack to begin downloading the modlist. Some files will need to be downloaded manually. In such cases, it should open a popup to download the mod from, with a guide at the top to tell you which file(s) to download from that page. Links to each mod are also available in the Discord server, as well as downloads for those below **50 MB**. Simply move them to your **JBM Downloads** folder.
 
