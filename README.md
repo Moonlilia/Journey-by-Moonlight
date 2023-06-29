@@ -220,10 +220,10 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
    - **Loki's Poise** - One of the best Poise mods out there, overhauling stagger and making it responsive
    - **DMCO** - Features two dodge types which can be used simultaneously, both with believable movement
    
-		   ### Animation 
-		   - **Sekiro NPC Bandit Animation** - Allows NPCs to *fake-out* to offer new challenges
-		   - **Super Fast Get Up Animation** - Changes the get up animation to not be annoying ~~lmao~~
-		   - **UNDERDOG Animation** - Uses its death animations 
+		### Animation 
+		- **Sekiro NPC Bandit Animation** - Allows NPCs to *fake-out* to offer new challenges
+		- **Super Fast Get Up Animation** - Changes the get up animation to not be annoying ~~lmao~~
+		- **UNDERDOG Animation** - Uses its death animations 
 
       ## Archery
       - **Bow Rapid Combo** - Adds new attack types to bows, making a bow-only build more viable and *fun*
@@ -264,22 +264,22 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
 	  - **Canis Hysteria** - Become a werewolf by being harmed by one, rather than be forced into a questline
 	  - **Sweets and Such** - Adds new items for baking to provide options for those who like to cook
 	  
-			### Audio
-			- **BA Bard Songs** - Diversifies Bard music aside from the same songs everyone grows tired of
-			- **Still** - Beautiful new music to immerse you in your travels
-			- **Regional Sounds Expansion** - Overhauls ambient sounds massively
-			- **A Bow's Whisper** - Without a doubt the best bow audio replacer available
-			- **Pentapox** - Adds multiple mods from the author to give crisper audio to a wide array of things
+		### Audio
+		- **BA Bard Songs** - Diversifies Bard music aside from the same songs everyone grows tired of
+		- **Still** - Beautiful new music to immerse you in your travels
+		- **Regional Sounds Expansion** - Overhauls ambient sounds massively
+		- **A Bow's Whisper** - Without a doubt the best bow audio replacer available
+		- **Pentapox** - Adds multiple mods from the author to give crisper audio to a wide array of things
 			
-			### Weapons and armor
-			- **NordWarUA** - Mods from author diversify armor with higher-quality models
-			- **GolinskiRH** - Author provides various new armor types in multiple mods to diversify the world 
-			- **Kreiste** - High-quality standalone armors
-			- **Fuse00** - Again, high-quality standalone armors with SPID addons
-			- **Real Bows** - New meshes and textures for existing bows to make them more believable 
-			- **Animated Armoury** - New weapon types for more variety
-			- **Vilidran** - More looks for various weapons for, yet again, *even more* variety
-			- **Blade of Evil's Bane** - A little easter egg, paying homage to one of the best game series ever made :) 
+		### Weapons and armor
+		- **NordWarUA** - Mods from author diversify armor with higher-quality models
+		- **GolinskiRH** - Author provides various new armor types in multiple mods to diversify the world 
+		- **Kreiste** - High-quality standalone armors
+		- **Fuse00** - Again, high-quality standalone armors with SPID addons
+		- **Real Bows** - New meshes and textures for existing bows to make them more believable 
+		- **Animated Armoury** - New weapon types for more variety
+		- **Vilidran** - More looks for various weapons for, yet again, *even more* variety
+		- **Blade of Evil's Bane** - A little easter egg, paying homage to one of the best game series ever made :) 
 			
 	  ## Characters
 	  - **BeastHHBB** - Adds new options for Argonians and Khajiit to improve creation for them
@@ -334,35 +334,35 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
 	- *Again, all options here can be disabled **safely** without consequence*
 	- *All optional content will have a separator marked **[Optional]** in MO2*
 	
-	## Difficulty 
-	- **Experience - Slow Your Roll** - Slows the leveling curve to make each level feel *rewarding*
-	- **Weight** - Options modify weight for coins and overall carry weight (harsher than SunHelm) to encourage planning and decision-making 
-		- *If **Weight A Minute** is enabled, **DO NOT** enable SunHelm's carry weight modifier!
-		- *SunHelm also provides carry weight for arrows, which can be disabled if preferred*
-	- **Regen Cap** - Specifically configured to slow health regen significantly, can be altered easily however
-	- **Sinister Seven** - Adds new bosses which will hunt you down as you grow stronger
-		- *Comes with quest entry changes made by me for more immersion
-		- *Also includes a recording in **MCM Recorder** for a special configuration
+## Difficulty 
+- **Experience - Slow Your Roll** - Slows the leveling curve to make each level feel *rewarding*
+- **Weight** - Options modify weight for coins and overall carry weight (harsher than SunHelm) to encourage planning and decision-making 
+- *If **Weight A Minute** is enabled, **DO NOT** enable SunHelm's carry weight modifier!
+- *SunHelm also provides carry weight for arrows, which can be disabled if preferred*
+- **Regen Cap** - Specifically configured to slow health regen significantly, can be altered easily however
+- **Sinister Seven** - Adds new bosses which will hunt you down as you grow stronger
+	- *Comes with quest entry changes made by me for more immersion
+	- *Also includes a recording in **MCM Recorder** for a special configuration
 		
-		### Combat
-		- **Wounds** - Adds combat injuries, specially-configured to not be a total hassle
-		- **Know Your Enemy Redux** - Overhauls creature strengths, weaknesses, and resistances
-			- *Comes with its Armor addon to encourage a diverse build, but not necessarily require it like other mods with the same goal*
-		- **Shadow of Skyrim** - A death overhaul, favoring robbery over death. Highly-configurable and recommended to view before Starting
-			- *Disabled by **Default** but notifies you at the start of the game*
+	### Combat
+	- **Wounds** - Adds combat injuries, specially-configured to not be a total hassle
+	- **Know Your Enemy Redux** - Overhauls creature strengths, weaknesses, and resistances
+		- *Comes with its Armor addon to encourage a diverse build, but not necessarily require it like other mods with the same goal*
+	- **Shadow of Skyrim** - A death overhaul, favoring robbery over death. Highly-configurable and recommended to view before Starting
+		- *Disabled by **Default** but notifies you at the start of the game*
 	
-	## OStim
-	- **OStim** content is supported in JBM. It's enabled by default but can be safely and easily-disabled for those who'd prefer not to.
-		- OStim content is given its own categories in MO2
-	- Additionally provides a 'SFW' option called **OFadeToBlack**, removing scenes and replacing them with a black screen instead
-	- Animation packs were chosen for inclusivity but should work for anyone
+## OStim
+- **OStim** content is supported in JBM. It's enabled by default but can be safely and easily-disabled for those who'd prefer not to.
+	- OStim content is given its own categories in MO2
+- Additionally provides a 'SFW' option called **OFadeToBlack**, removing scenes and replacing them with a black screen instead
+- Animation packs were chosen for inclusivity but should work for anyone
 	
-	## Arachnophobia
-	- **Insects Begone** - Replaces spiders with bears and chaurus with skeevers. Enabled by default and recommended to leave as such, but can be disabled if you'd prefer
-		- Justification - JBM uses **Bears of the North** and **Immersive Sound Compendium**'s bear audio overhaul. This makes them ***much*** more terrifying. Recommended to leave enabled as they're honestly more intimidating than those 8-legged meanies
-		- So, in short, recommended to keep enabled for a more immersive and scarier enemy type :)
-	- **SkyTEST Redux - Insects Begone** - A patch made by me which removes *all* small spider spawns from the game
+## Arachnophobia
+- **Insects Begone** - Replaces spiders with bears and chaurus with skeevers. Enabled by default and recommended to leave as such, but can be disabled
+	- Justification - JBM uses **Bears of the North** and **Immersive Sound Compendium**'s bear audio overhaul. This makes them ***much*** more terrifying
+	- So, in short, recommended to keep enabled for a more immersive and scarier enemy type :)
+- **SkyTEST Redux - Insects Begone** - A patch made by me which removes *all* small spider spawns from the game
 	
-	## Cheats
-	- **AddItemMenu** - Provided for those who wish to obtain items without needing to find them or use console, disabled by default
+## Cheats
+- **AddItemMenu** - Provided for those who wish to obtain items without needing to find them or use console, disabled by default
 	
