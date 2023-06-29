@@ -207,3 +207,42 @@ After you've set up your game to fit your preferences, you can now proceed with 
        - <a href="https://kaidanmod.com/">Kaidan 2</a> - Tons of addons for one of the greatest male companions. Extended Edition, Inigo Banter, Auto-Sleep, Glad You're Here, Dragon Armor (+ HIMBO Refit), Immersive Features, Skyrim's Got Talent, Slap Da Butt (~~owo~~), and both Lux patches
    
 -------
+
+# Noteworthy Mods
+
+Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a list of mods which provide considerable changes, alongside an adequate description of its place in JBM, you can see below. It doesn't cover *every* mod but tries to give a general idea:
+
+   ## Combat
+   - **ADXP-MCO** - Revamps Skyrim's combat to be similar to many ARPGs, making it more skillful and engaging
+         - Also makes use of an additional patch to allow attack-canceling
+   - **SCAR** - Allows NPCs to make use of new combat animations
+   - **Precision** - Accurate melee collision to make combat much more interesting
+   - **Loki's Poise** - One of the best Poise mods out there, overhauling stagger and making it responsive
+   - **DMCO** - Features two dodge types which can be used simultaneously, both with believable movement
+
+      ## Archery
+      - **Bow Rapid Combo** - Adds new attack types to bows, making a bow-only build more viable and *fun*
+      - **Bow Charge Plus** - Bows can charge up to deal more damage, further diversifying archery
+      - **Skyrim Arrow Overhaul** - Big overhaul to archery, adding complexity and furthering roleplay opportunities
+         - Also makes use of a patch collection of mine :)
+
+      ## Magic
+      - **Phenderix Elements** - Adds a new progressive spell-learning system with elemental forms
+      - **Conduit** - Allows infusing weapons temporarily by holding a weapon in one hand and spell in the other
+      - **Spellsiphon** - Streamlines mage combat, adding combos and synergy, and easier spell-swapping
+      - **Spellforge** - Adds spell crafting to add depth to mage gameplay
+      - **Spell Tutor** - Adjusts spell tomes, adding progress and chance to learning them
+
+           ## Spells
+           - **Mysticism** - Vanilla-plus overhaul of magic to keep things balanced
+           - **Triumvirate** - Adds spells for class archetypes
+           - **Darenii** - Multiple mods from said author to diversify magic types
+       
+      ## Roleplay and Immersion
+      - **Honed Metal** - Removes the need to craft, letting NPCs to do it at a cost
+      - **Children of Azura** - Adds Elder Scrolls lore elements to establish trans existence in Skyrim
+      - **Go To Bed** - Animates sleeping for the player, making it feel more interactive
+      - **Missives** - Adds new radiant quests to fulfill a sense of adventure
+      - **Cheesemod** - *Cheeeese.* Adds new stuff to collect
+      - **Dynamic Wait** - Hold **Y** to *watch* time pass quickly
+     
