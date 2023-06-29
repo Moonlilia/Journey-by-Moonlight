@@ -219,6 +219,11 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
    - **Precision** - Accurate melee collision to make combat much more interesting
    - **Loki's Poise** - One of the best Poise mods out there, overhauling stagger and making it responsive
    - **DMCO** - Features two dodge types which can be used simultaneously, both with believable movement
+   
+		   ### Animation 
+		   - **Sekiro NPC Bandit Animation** - Allows NPCs to *fake-out* to offer new challenges
+		   - **Super Fast Get Up Animation** - Changes the get up animation to not be annoying ~~lmao~~
+		   - **UNDERDOG Animation** - Uses its death animations 
 
       ## Archery
       - **Bow Rapid Combo** - Adds new attack types to bows, making a bow-only build more viable and *fun*
@@ -233,11 +238,22 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
       - **Spellforge** - Adds spell crafting to add depth to mage gameplay
       - **Spell Tutor** - Adjusts spell tomes, adding progress and chance to learning them
 
-           ## Spells
+           ### Spells
            - **Mysticism** - Vanilla-plus overhaul of magic to keep things balanced
            - **Triumvirate** - Adds spells for class archetypes
            - **Darenii** - Multiple mods from said author to diversify magic types
-       
+      
+	  ## Core Overhauls
+	  - **SunHelm** - Lightweight needs systems and difficulty modifiers, like arrow weight and reduced carry weight. Fully-configurable
+	  - **Frostfall** - Provides a more demanding cold system than what SunHelm offers and provides new roleplay opportunities
+	  - **Hunterborn** - Makes changes to hunting to make it more engaging 
+	  - **Apothecary** - My personal favorite alchemy and food overhaul to balance things out and add new effects
+	  - **C.O.I.N** - Adds new coin types throughout Skyrim, with different values, optionally adding weight to coins
+	  - **Trade Routes** - Makes shop prices much more dynamic and interesting
+	  - **Open World Loot** - Greatly overhauls how loot is handled
+	  - **Experience** - Revamps experience gain when exploring and finishing quests with an addon to slow leveling considerably
+	  - **Realistic AI Detection** - Makes stealth much more skill-based and complex
+	  
       ## Roleplay and Immersion
       - **Honed Metal** - Removes the need to craft, letting NPCs to do it at a cost
       - **Children of Azura** - Adds Elder Scrolls lore elements to establish trans existence in Skyrim
@@ -245,4 +261,108 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
       - **Missives** - Adds new radiant quests to fulfill a sense of adventure
       - **Cheesemod** - *Cheeeese.* Adds new stuff to collect
       - **Dynamic Wait** - Hold **Y** to *watch* time pass quickly
-     
+	  - **Canis Hysteria** - Become a werewolf by being harmed by one, rather than be forced into a questline
+	  - **Sweets and Such** - Adds new items for baking to provide options for those who like to cook
+	  
+			### Audio
+			- **BA Bard Songs** - Diversifies Bard music aside from the same songs everyone grows tired of
+			- **Still** - Beautiful new music to immerse you in your travels
+			- **Regional Sounds Expansion** - Overhauls ambient sounds massively
+			- **A Bow's Whisper** - Without a doubt the best bow audio replacer available
+			- **Pentapox** - Adds multiple mods from the author to give crisper audio to a wide array of things
+			
+			### Weapons and armor
+			- **NordWarUA** - Mods from author diversify armor with higher-quality models
+			- **GolinskiRH** - Author provides various new armor types in multiple mods to diversify the world 
+			- **Kreiste** - High-quality standalone armors
+			- **Fuse00** - Again, high-quality standalone armors with SPID addons
+			- **Real Bows** - New meshes and textures for existing bows to make them more believable 
+			- **Animated Armoury** - New weapon types for more variety
+			- **Vilidran** - More looks for various weapons for, yet again, *even more* variety
+			- **Blade of Evil's Bane** - A little easter egg, paying homage to one of the best game series ever made :) 
+			
+	  ## Characters
+	  - **BeastHHBB** - Adds new options for Argonians and Khajiit to improve creation for them
+	  - **Racial Skin Variance** - Provides different skin textures for each race
+	  - **Cuyi's Bosmeri Antlers** - Antlers for Bosmer in character creation's **Scar** sliders
+	  - **Ohmes-Raht and Dagi-Raht** - Two new lore-friendly Khajiiti races with accompanying patches from me :)
+	  - **OBody NG** - Gives varying body presets to NPCs to diversify body types
+	  - **dw's Palm & Sole Overlays** - New overlays for characters to have lighter palms and soles
+	  - **Fantasy Creature Tails** - Physics-enabled tails for RaceMenu, for those who'd prefer a more fantasy-esque character
+	  - **Racial Body Morphs Redux** - Adjusts height by race to match lore standards and diversify Skyrim 
+	  - **NUDE** - Gives underwear to all NPCs depending on wealth/lifestyle
+			- *Includes an addon I created with NUDE's author* :)
+	  
+	  ## Animation
+	  - **Open Animation Framework** - The replacer to DAR with backwards compatibility and tons of new features for authors
+	  - **True Directional Movement** - Brings movement behavior up to modern standards and includes target-locking
+	  - **Classic Sprinting Redone** - Hold to sprint, providing better compatibility with dodge mods like DMCO 
+	  - **Conditional Armor Type Animations** - Framework to allow unique animations depending on armor, with multiple addons
+	  - **Axarien** - Uses multiple mods from said author to give unique animations to certain followers
+	  
+	  ## Creatures
+	  - **SkyTEST Redux** - Overhauls creature AI, and adds new animals and small versions. *Puppies!*
+	  - **Creatures of Nirn** - Adds Alfiq, a lore-friendly Khajiiti race present in ESO
+	  - **Fairies** - Magical creatures which dart around the landscape
+	  - **Mihail** - Adds a plethora of mods from said author to diversify creature types 
+	  
+	  ## Locations
+	  - **More Bandit Camps** - New unmarked camps to come across, adding more enemies to dot the landscape
+	  - **Unmarked Locations Pack** - Adds a plethora of new locations to stumble upon, with their own secrets
+	  - **Schlitzohr** - Includes various lore-friendly settlements to further flesh out the world 
+	  - **RYFTEN** - A performance-friendly and fully-modular overhaul of Riften
+	  - **Ryn's Whiterun City Limits** - A huge overhaul of the area surrounding Whiterun 
+	  - **Solitude Docks Updated** - Makes the docks outside Solitude a little more interesting 
+	  - **RubberSpaghetti** - Uses Spaghetti's AIO overhauls of cities, towns, and Solstheim
+	  - **Northern Farmhouses + COTN** - Gives new meshes to buildings for a fresher and fantastical-look
+	  
+	  ## Graphics
+	  - **Moonlilia Graphics** - Some custom visuals made for the modlist, to work alongside existing ones. I'm not vain I swear!
+	  - **Medieval Mountains** - New textures for Majestic Mountains with a look that matches JBM's aesthetic 
+	  - **Traverse the Ulvenwald** - Seasonal forests with new tree models/textures
+	  - **ICFur's Grass Patch** - An incredible blend of grass mods for that warm and cozy vibe
+			- *Uses **Veydosebrom Regions, Cathedral 3D, and Cathedral Landscapes***
+	  - **Real Ice and Snow** - My personal favorite overhaul for ice and snow
+	  - **Turn of the Seasons** - A lightweight landscape overhaul for each season 
+	  - **Seasons of Skyrim** - Specifically Spring and Autumn are included, with a special seasonal calendar and setup for JBM 
+			- *Comes with Shrubs of Snow and multiple addons to support it fully and beautifully*
+			
+# Optional Content 
+
+***Journey by Moonlight** makes use of a wide array of content which is fully-optional and easily-configurable. They alter difficulty and may even make the game more accessible.*
+	- *Read below for a list of what kind of optional content is included and why*
+	- *Again, all options here can be disabled **safely** without consequence*
+	- *All optional content will have a separator marked **[Optional]** in MO2*
+	
+	## Difficulty 
+	- **Experience - Slow Your Roll** - Slows the leveling curve to make each level feel *rewarding*
+	- **Weight** - Options modify weight for coins and overall carry weight (harsher than SunHelm) to encourage planning and decision-making 
+		- *If **Weight A Minute** is enabled, **DO NOT** enable SunHelm's carry weight modifier!
+		- *SunHelm also provides carry weight for arrows, which can be disabled if preferred*
+	- **Regen Cap** - Specifically configured to slow health regen significantly, can be altered easily however
+	- **Sinister Seven** - Adds new bosses which will hunt you down as you grow stronger
+		- *Comes with quest entry changes made by me for more immersion
+		- *Also includes a recording in **MCM Recorder** for a special configuration
+		
+		### Combat
+		- **Wounds** - Adds combat injuries, specially-configured to not be a total hassle
+		- **Know Your Enemy Redux** - Overhauls creature strengths, weaknesses, and resistances
+			- *Comes with its Armor addon to encourage a diverse build, but not necessarily require it like other mods with the same goal*
+		- **Shadow of Skyrim** - A death overhaul, favoring robbery over death. Highly-configurable and recommended to view before Starting
+			- *Disabled by **Default** but notifies you at the start of the game*
+	
+	## OStim
+	- **OStim** content is supported in JBM. It's enabled by default but can be safely and easily-disabled for those who'd prefer not to.
+		- OStim content is given its own categories in MO2
+	- Additionally provides a 'SFW' option called **OFadeToBlack**, removing scenes and replacing them with a black screen instead
+	- Animation packs were chosen for inclusivity but should work for anyone
+	
+	## Arachnophobia
+	- **Insects Begone** - Replaces spiders with bears and chaurus with skeevers. Enabled by default and recommended to leave as such, but can be disabled if you'd prefer
+		- Justification - JBM uses **Bears of the North** and **Immersive Sound Compendium**'s bear audio overhaul. This makes them ***much*** more terrifying. Recommended to leave enabled as they're honestly more intimidating than those 8-legged meanies
+		- So, in short, recommended to keep enabled for a more immersive and scarier enemy type :)
+	- **SkyTEST Redux - Insects Begone** - A patch made by me which removes *all* small spider spawns from the game
+	
+	## Cheats
+	- **AddItemMenu** - Provided for those who wish to obtain items without needing to find them or use console, disabled by default
+	
