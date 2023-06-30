@@ -70,6 +70,7 @@ This will allow Wabbajack to handle installing the modlist with ease but *may* n
 5. In the **Virtual Memory** section, click **Change...**
 6. Disable **Automatically manage paging file size for all drives**
 7. Click **Custom Size** and set minimum to at least **20480**, and maximum to at least **40960** if needed
+   	- Do this for the drive you're installing JBM to
 8. Click **Set**
 9. Click **Apply** and **Ok**
 10. Restart your system
