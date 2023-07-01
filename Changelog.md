@@ -1,4 +1,17 @@
 # Changelog for Journey by Moonlight
+*The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
+
+## JBM v1.0.2
+  - **Added**
+      - Reshade - Added **reshade-presets** folder for easier preset additions
+  - **Updated**
+      - Equus - Hopefully fixes the meta file for new users
+      - Improved Camera - Hopefully fixes the meta file for new users
+      - Synthesis Output - Updated masters to account for removed mods
+      - EasyNPC - Updated the NPC Replacers used
+  - **Removed**
+      - CreationKit.exe - Removed to save 50 MB of space on installation. *Streamlining!*
+      - Synthesis Hotfix - Not needed in v1.0.2. Will remain up for a few days for those on **v1.0.1**
 
 ## JBM v1.0.1
   - **Removed**
