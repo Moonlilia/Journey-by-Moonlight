@@ -1,6 +1,12 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.0.3
+  - **Removed**
+      - Equus - Meta file repeatedly causes issues despite attempts to fix it
+      - flowchartx64.dll - Comes from CreationKit installs and gives an error if CK is not installed
+      - p4com64.dll - Comes from CreationKit installs and gives an error if CK is not installed
+
 ## JBM v1.0.2
   - **Added**
       - Reshade - Added **reshade-presets** folder for easier preset additions
