@@ -180,6 +180,7 @@ After you've set up your game to fit your preferences, you can now proceed with 
  1. **LoversLab**
        - <a href="https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/">Schlongs of Skyrim</a> - JBM supports OStim content for those who desire it and it needs those appendages. Also, nudity cause it doesn't have to be so taboo :p
        - <a href="https://www.loverslab.com/files/file/11252-gr-equippable-inari-ears-and-tails-se-smp-spaz490-re/">Inari Ears and Tails</a> - Adds animal ears and tails for character creation. Diversifies creation further
+       		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
 
  2. **VectorPlexis**
        - <a href="https://vectorplexis.com/files/file/283-high-poly-head/">High Poly Head</a> - Popular for creation and brings it up to more modern standards
@@ -198,8 +199,11 @@ After you've set up your game to fit your preferences, you can now proceed with 
  4. **Tumblr**
        - <a href="https://feeling-artsick.tumblr.com/post/621000027918270464/i-made-a-replacement-for-orc-teeth-for-a-new">Orc Teeth Replacement</a> - Gives proper-looking teeth textures to Orcs, a race often overlooked
        - <a href="https://skyrimfuckery.tumblr.com/">Adventurer's Wardrobe</a> - Incredible armor that looks *protective* and beautiful
+       		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
        - <a href="https://skyrimfuckery.tumblr.com/">Brigandine Redux Armor Pack</a> - Again, amazing armor. Adds plenty of new options
+       		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
        - <a href="https://skyrimfuckery.tumblr.com/">Lorisian Armor</a> - Yet again, fantastic quality and comes with a quest
+       		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
 
  5. **Github**
        - <a href="https://github.com/ArranzCNL/ImprovedCameraSE/releases">Improved Camera</a> - The best first-person camera overhaul available. Great customization as well
