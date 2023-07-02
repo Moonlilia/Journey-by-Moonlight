@@ -139,6 +139,14 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
           * In MO2, navigate to the **High Priority - Modlist Files** separator and the **JBM - Skyrim Priority** mod
           * Right-click the mod and click **Open in Explorer**, navigate **SKSE > Plugins** and drop it in there, replacing the existing file
           * Refer to the image below for assistance
+
+     3. If you have an **RTX card**, you're good to go! If not, you'll need to do some additional prepwork. Don't worry, it's nothing too bad!
+          * Non-RTX cards *must* support **DirectX 12** for <a href="https://www.nexusmods.com/skyrimspecialedition/mods/80343">Skyrim Upscaler</a> to work
+           * If DX12 is *supported*, head to <a href="https://www.nexusmods.com/site/mods/502">UpscalerBasePlugin</a> and download **FSR2** or **XeSS** dll
+           		* Recommended to download the FSR2 files from the <a href="https://drive.google.com/drive/folders/1ae5T8rubejwbqklP_V9s3iJKlCX4KFxu">Google Drive</a> link
+        		* Additionally, find the **SkyrimPrefs.ini** you dropped into **Default** and disable **TAA** if it isn't already
+           		* Drop the dlls in **Journey by Moonlight > Stock Game > Data > UpscalerBasePlugin** and delete **nvngx_dlss.dll**
+           * If DX12 is *unsupported*, disable **Skyrim Upscaler** in MO2 and delete **UpscalerBasePlugin** folder in **Journey by Moonlight > Stock Game > Data**
    
 <img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/f3af7dd4-9a94-490e-8b58-fc31e11f2973" width="800" height="600">
 
