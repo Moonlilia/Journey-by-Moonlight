@@ -6,7 +6,7 @@
 
 <h3 align="center" tabindex="-1" dir="auto"><a id="user-content------" class="anchor" aria-hidden="true" href="#-----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
    <a href="https://discord.gg/97WvxJp47p" rel="nofollow"><img alt="Discord" src="https://camo.githubusercontent.com/921d449ed6a110481c94aca1c8caf0b3242e1a6510391d260d765caf34086318/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f646973636f72642d6c6f676f2d706e672f646973636f72642d6c6f676f2d6c6f676f646f776e6c6f61642d646f776e6c6f61642d6c6f676f7469706f732d312e706e67" width="50" height="50" data-canonical-src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" style="max-width: 100%;"></a> ︱
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/94378" rel="nofollow"><img alt="Nexus" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="50" height="50" style="max-width: 100%;"></a> ︱
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/94658" rel="nofollow"><img alt="Nexus" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="50" height="50" style="max-width: 100%;"></a> ︱
 <a href="https://patreon.com/moonlilia" rel="nofollow"><img alt="Patreon" src="https://camo.githubusercontent.com/9ba412341956f9ef3144863a2df068699140f3b9d508b873ab18770239d0e76a/68747470733a2f2f646563656e74657265642e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323031392f31322f70617472656f6e2d6c6f676f2d706e672d62616467652d372e706e67" width="50" height="50" data-canonical-src="https://decentered.co.uk/wp-content/uploads/2019/12/patreon-logo-png-badge-7.png" style="max-width: 100%;"></a>
 </h3>
 
@@ -118,7 +118,7 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
 
 1. With these steps taken care of, you can begin downloading **Journey by Moonlight**! The steps and notes below explain this process:
 
- * Download the .zip file from JBM's <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94378">Nexus</a> page
+ * Download the .zip file from JBM's <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94658">Nexus</a> page
       * Extract the file to your **Wabbajack** folder
       * Inside Wabbajack, click the 3 dots (...) next to **Target Modlist** and select the **Journey By Moonlight.wabbajack** file
 
@@ -130,7 +130,7 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
 
 5. If the installation is successful, you can create a shortcut for Mod Organizer's .exe in the **Journey by Moonlight** folder.
 
-6. Now for some final steps - choosing the right INI files for your system. Download **JBM - INI Files** from the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94378">Nexus</a> page and extract it to a new folder or open the archive.
+6. Now for some final steps - choosing the right INI files for your system. Download **JBM - INI Files** from the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94658">Nexus</a> page and extract it to a new folder or open the archive.
      1. Open the **Profile INIs** folder and choose your resolution. Note that 1920x1080 can work on larger resolution screens as well and is more performance-friendly.
           * From there, choose your preferred settings. High and Medium have little difference in visuals but Medium yields more FPS
           * Then, transfer all 3 files (Skyrim.ini, SkyrimCustom.ini, and SkyrimPrefs.ini) to **Journey by Moonlight > Profile > Default**
