@@ -1,6 +1,25 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.0.4
+  - **Fixed or Updated**
+      - Gore
+          - Moved HPH Replacer plugin to a higher priority to resolve texture bug
+      - Northern Roads
+          - Updated **Modlist Fixes** plugin to resolve seams around Whiterun
+      - Moonlilia's Patch Collection for Custom Races
+          - Updated animation conditions to stop crouch idle in RaceMenu
+      - Glorious Doors of Skyrim
+          - Removed Whiterun door replacers to resolve missing textures
+      - R's Farmhouses
+          - Removed some meshes to fix mismatched textures
+      - Dynamic Animal Variants SPID
+          - Removed dogs from distribution to prevent mismatched textures
+      - Improved Camera
+          - Hopefully fixes the meta file to direct to the right URL and version
+      - **Format Changes**
+          - *Changelog will now simply state mod names on Discord. **Updated** tag is now **Fixed or Updated**. Github page now provides more info.
+
 ## JBM v1.0.3
   - **Removed**
       - Equus - Meta file repeatedly causes issues despite attempts to fix it
