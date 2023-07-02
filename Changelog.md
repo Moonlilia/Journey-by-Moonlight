@@ -1,6 +1,10 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.0.5
+  - **Fixed or Updated**
+      - Fonts - Reinstalled Font Overhaul and Scribes of Skyrim, overwriting Dragonbreaker UI's custom font. Resolves an issue with text not appearing in books and such.
+
 ## JBM v1.0.4
   - **Fixed or Updated**
       - Gore
