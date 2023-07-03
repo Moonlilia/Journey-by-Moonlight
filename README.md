@@ -146,6 +146,7 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
            		* Recommended to download the FSR2 files from the <a href="https://drive.google.com/drive/folders/1ae5T8rubejwbqklP_V9s3iJKlCX4KFxu">Google Drive</a> link
         		* Additionally, find the **SkyrimPrefs.ini** you dropped into **Default** and disable **TAA** if it isn't already
            		* Drop the dlls in **Journey by Moonlight > Stock Game > Data > UpscalerBasePlugin** and delete **nvngx_dlss.dll**
+             		* Once in-game, press **End** to open Skyrim Upscaler's menu, and switch it to match the dll you're using
            * If DX12 is *unsupported*, disable **Skyrim Upscaler** in MO2 and delete **UpscalerBasePlugin** folder in **Journey by Moonlight > Stock Game > Data**
    
 <img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/f3af7dd4-9a94-490e-8b58-fc31e11f2973" width="800" height="600">
