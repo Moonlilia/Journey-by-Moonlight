@@ -140,14 +140,17 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
           * Right-click the mod and click **Open in Explorer**, navigate **SKSE > Plugins** and drop it in there, replacing the existing file
           * Refer to the image below for assistance
 
-     3. If you have an **RTX card**, you're good to go! If not, you'll need to do some additional prepwork. Don't worry, it's nothing too bad!
-          * Non-RTX cards *must* support **DirectX 12** for <a href="https://www.nexusmods.com/skyrimspecialedition/mods/80343">Skyrim Upscaler</a> to work
-           * If DX12 is *supported*, head to <a href="https://www.nexusmods.com/site/mods/502">UpscalerBasePlugin</a> and download **FSR2** or **XeSS** dll
-           		* Recommended to download the FSR2 files from the <a href="https://drive.google.com/drive/folders/1ae5T8rubejwbqklP_V9s3iJKlCX4KFxu">Google Drive</a> link
-        		* Additionally, find the **SkyrimPrefs.ini** you dropped into **Default** and disable **TAA** if it isn't already
-           		* Drop the dlls in **Journey by Moonlight > Stock Game > Data > UpscalerBasePlugin** and delete **nvngx_dlss.dll**
-             		* Once in-game, press **End** to open Skyrim Upscaler's menu, and switch it to match the dll you're using
-           * If DX12 is *unsupported*, disable **Skyrim Upscaler** in MO2 and delete **UpscalerBasePlugin** folder in **Journey by Moonlight > Stock Game > Data**
+     3. Last step! Getting Skyrim Upscaler to work on your system, or disabling it.
+          1. Head to <a href="https://www.nexusmods.com/site/mods/502">UpscalerBasePlugin</a> on **Nexus** and download a DLL to match your GPU
+         	* **RTX** users should download **DLSS** for <a href="https://www.nexusmods.com/skyrimspecialedition/mods/80343">Skyrim Upscaler</a> to work
+          	* **Non-RTX** users should verify that their card *supports* **DirectX 12** and, if so, download FSR2 or XeSS
+           		* If downloading FSR2, head to the <a href="https://drive.google.com/drive/folders/1ae5T8rubejwbqklP_V9s3iJKlCX4KFxu">Google Drive</a> instead
+             		* If your card *does not* support **DirectX 12**, disable **Skyrim Upscaler** in MO2 and delete the **UpscalerBasePlugin** folder in **Journey by Moonlight > Stock Game > Data**
+          2. Add the newly-downloaded DLL, or DLLs if using FSR2, to **Journey by Moonlight > Stock Game > Data > UpscalerBasePlugin** and delete **nvngx_dlss.dll**
+          3. Next, open up **JBM - INI Files** and **Upscaler INIs**, choose based on the DLL you're using and preference for level of **quality** and **performance**
+          4. Then, in MO2, drop the chosen INI file into **JBM - Skyrim Priority > SKSE > Plugins**
+          	* If you would like to verify that it matches, go in-game and press **End** to open the menu, then look through the options
+          5. If your screen is shaky, enabling borderless in **SkyrimPrefs.ini** can help resolve the issue
    
 <img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/f3af7dd4-9a94-490e-8b58-fc31e11f2973" width="800" height="600">
 
