@@ -1,6 +1,28 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.0.6
+*Big Update! Adds multiple new mods which **should** work with existing saves and updates a few existing ones.*
+  - **Added**
+      - Photo Mode - Adds new features for taking screenshots
+      - Simplicity of Seeding - Quality of life improvements to Hearthfire's planters
+      - MQ105SprintTriggerScript Fix - Fix for an issue that can occur with the vanilla main quests
+      - Dynamic Wait Settings Loader - Allows for changes made to Dynamic Wait to save without an MCM recording
+      - TB's Carrot Cake 2K BOS - Why? Because **carrot cake**! BOS allows it to work alongside the high poly Sweet Rolls :D
+      - Cathedral 3D Pine Shrubs - Another great mesh and texture upgrade which matches the JBM aesthetic
+      - ElSopa HD Grindstone Hearthfire Patch - Patches the grindstone added in Hearthfire to use the new mesh and textures
+      - More Scar Sliders (Northborn Scars - High Poly Head) - Adds more scar options which work alongside Northborn Scars and High Poly Head
+        
+  - **Updated**
+      - Dynamic Bow Animation - New improvements to existing animations
+      - Bow Rapid Combo v3 - Again, new improvements
+      - Improved Camera SE - Switched to the new **Nexus** release in favor of easier installation
+        
+  - **JBM Improvements**
+      - Official Key Map - Updated to **v1.0.6** to match the new keybinds
+      - JBM INI Files - Added INI presets for **Skyrim Upscaler** to further aid installation and save some headache in set up
+      - Changelog Format - Cleaned up the Changelog format to help differentiate between changes. **Fixed** and **Updated** are now 2 separate categories
+
 ## JBM v1.0.5
   - **Fixed or Updated**
       - Fonts - Reinstalled Font Overhaul and Scribes of Skyrim, overwriting Dragonbreaker UI's custom font. Resolves an issue with text not appearing in books and such.
