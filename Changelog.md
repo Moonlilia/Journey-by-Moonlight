@@ -1,6 +1,61 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.0.7
+*Even bigger update! OMG! Adds some new mods, improves on QoL, improved performance, and lowered default difficulty slightly. Likely not save-compatible but you're welcome to test and verify! I'll try to do it myself as well.*
+### Added
+  - Mihail's Ring-necked Pheasants - Adds a new creature to show up in the world, which fits JBM's aesthetic nicely
+  - Skyrim Arrow Overhaul Settings Loader - Allows changes to be made without needing an MCM recording
+  - SkyRem Economy Settings Loader - Same as above
+  - Smooches of Skyrim Settings Loader - Same as above
+  - Thugs Not Assassins Confrontation - Adds a little more roleplay to the game, allowing you to confront those who send thugs
+  - Water Blending - New Doodlezoid mod, enhances visuals even further!
+  - Complex Parallax Materials - Integrates parallax support which may show up on some textures, not all!
+  - Gear Spreader - Distributes equipment in the mod to containers, without conflicts
+  - BWB Kaidan Bow/Katana - Fixes a texture mismatch and provides even better visuals for Kaidan's weapons
+  - PC Head Tracking and Voice Type - Was already supposed to be included but *someone* forgot to tag it. Adds an extra option for a player voice.
+  - Improved Camera Patch Collection - Adds support for Scion to Improved Camera
+  - Natural Waterfalls Majestic Mountains Patch - Provides a fix for the two mods
+    
+### Fixed
+  - Northern Roads Modlist Fixes - Fixes a seam near Riften and Goldenglow Estate
+  - DynDOLOD Output - Updated to hopefully resolve water shader issues. Also lowered quality slightly, boosting performance considerably
+    * Performance gain on my specs was about 15 FPS uncapped, should allow the modlist to run better on lower specs too!
+  - Synthesis Output - Updated to blacklist some mods from OWL distribution. Effectively, stops enemies from getting wacky or unfitting equipment, like a pan.
+    * Yes, a pan, like a skillet. Thank you, Skyrim on Skooma!
+   
+### Updated
+   - Community Shaders - New version to support **Water Blending** and **Complex Parallax Materials** and mapped to F1
+   - Diverse Foods - Updated and added a Hearthfire patch
+   - Photo Mode - Updated to latest version
+   - SkyRem Economy - Adjusted values, making seasons and location less impactful while reputation and the war are moreso
+   - Trade & Barter - Lowered selling prices slightly but boosted status bonuses
+   - Skyrim Arrow Overhaul - Swapped so that arrows drop on loading a bow if no quiver is equipped, to provide compatibility with **Go To Bed**
+     * Also adjusted MCM settings. Bows no longer drain stamina when aiming and heavy armor doesn't reduce stamina regen. Quivers also hold **2.5x** more
+   - Spell Tutor - Changed to a progress-based system, bumped the chances of learning up, and lowered chances of tome destruction
+   - QuickLoot EE - Disabled in combat and on animals to resolve issues with it not working sometimes
+   - Regen Cap - Boosted health regen by 10x (0.1 to 1.0), boosted stamina regen from 15 to 25, and magicka from 3 to 30
+      * Makes recovery after the fight nicer but still encourages potions, healing spells, and/or recovery foods
+   - Precision - Disabled recoil on objects for the player to make combat in dungeons and corridors less annoying
+   - Wounds - Lowered chances for broken bones, increased minimum movement speed, bumped the armor offset up slightly, and improved recovery time for injuries
+      * Combat is still challenging but recovery is less punishing while still requiring *some* time away from the fight
+   - Mists of Tamriel - Enabled subtle volumetric mists and lowered the chance of morning fog considerably
+   - Harvest Overhaul Redone - Improved chances of a higher harvest yield
+   - Immersive Interactions - Disabled a couple animations to be less problematic
+   - SunHelm - Adjusted profiles to be less demanding, properly-mapped keybinds, and disabled eating/drinking animations due to overlap
+   - Road Signs Fast Travel - Lowered gold cost for fast travel via road signs
+   - Animated Interactions & Idles - Changed wait idle to random
+   - Missives - Improved the gold reward for various radiant quests to make them more worthwhile
+   - Honed Metal - Allowed NPCs to access rare materials and lowered the gold cost for requesting crafting services
+   - Dynamic Things Alternative - Boosted the experience multiplier to be 5% higher (.25x to .3x)
+   - Smooches of Skyrim - oWo. Upped the max number of animation loops
+   - Dynamic Wait - Time now ramps up as it progresses. *Zoooooooooooooooom!!!*
+   - Official JBM Keymap - Updated to include the new keybind for Community Shaders
+   - Format - Slight improvement to the format as well. Sections now have their own headers for link navigation
+   
+### Removed
+   - Scribes of Skyrim - Unfortunately causes issues with text not appearing. Great mod though
+     
 ## JBM v1.0.6
 *Big Update! Adds multiple new mods which **should** work with existing saves and updates a few existing ones.*
   - **Added**
