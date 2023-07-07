@@ -18,6 +18,7 @@
   - Skyrim Unbound Reborn - Updated to latest version with some additional patches included in its FOMOD
   - JBM LODGen Output - Converted to BC7 compression for better performance and slightly-better visuals
   - JBM TexGen Output - Reran with new LODGen Output enabled, removed excess files
+    
 *As with every JBM update, it's recommended that you take any files you've changed and add them to a new mod marked **[NoDelete]** to avoid losing them!*
 *A guide for this can be found in #modding-support in the Discord server.*
 
