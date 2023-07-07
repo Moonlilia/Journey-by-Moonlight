@@ -7,6 +7,7 @@
   - Dynamic Weather and Time Detection Settings Loader - Minor adjustments to mod to tweak visibility and alertness in different weather conditions
   - Book of Shadows Settings Loader - Slight adjustments to smoke bomb duration and player cough immunity
   - DynDOLOD DLL Settings Loader - No changes made but exists for future changes
+    
 ### Fixed
   - Community Shaders - Disabled terrain parallax as it was resulting in excessive artifacts
   - Gear Spreader - Downgraded to an older version. Excluded various mods from distribution and boosted max distribution
@@ -15,12 +16,16 @@
   - moreHUD - Changed which settings loader version is used to resolve it breaking MCM. Changed a few settings and unhid it in MCM
   - Subtle Feminine Sprint Animation by Xtudo - Updated conditions to only play without a weapon and outside of combat. Uses Smooth's otherwise
   - Natural Waterfalls - Gave Simplicity of Sea higher priority to prevent water shaders from messing up
+    
 ### Updated
   - Community Shaders - Updated to latest version
   - Skyrim Unbound Reborn - Updated to latest version with some additional patches included in its FOMOD
   - JBM LODGen Output - Converted to BC7 compression for better performance and slightly-better visuals
   - JBM TexGen Output - Reran with new LODGen Output enabled, removed excess files
   - Ohmes-Raht Personal Tweaks - Ohmes-Raht are now ~4% smaller. They should be even smaller but I don't wanna overdo it. Let me know though yo
+    
+### Removed
+  - Smooth Random Sprint Animation 15% Faster Sprint - Made sprinting look a little janky. Also removed to make subtle sprint work nicer
     
 *As with every JBM update, it's recommended that you take any files you've changed and add them to a new mod marked **[NoDelete]** to avoid losing them!*
 *A guide for this can be found in #modding-support in the Discord server.*
