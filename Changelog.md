@@ -1,6 +1,26 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.0.8
+*Small improvements to some features. Updates to LODGen and TexGen Outputs for improved performance. Should be save-compatible, technically. See below!*
+### Added
+  - Dynamic Weather and Time Detection Settings Loader - Minor adjustments to mod to tweak visibility and alertness in different weather conditions
+  - Book of Shadows Settings Loader - Slight adjustments to smoke bomb duration and player cough immunity
+  - DynDOLOD DLL Settings Loader - No changes made but exists for future changes
+### Fixed
+  - Community Shaders - Disabled terrain parallax as it was resulting in excessive artifacts
+  - Gear Spreader - Downgraded to an older version. Excluded various mods from distribution and boosted max distribution
+      * Containers should now have actual interesting loot, not just clutter and paintings
+      * As it does its changes at the main menu, it might be save-compatible? Feedback is needed to verify, as distribution may only affect new saves
+  - moreHUD - Changed which settings loader version is used to resolve it breaking MCM. Changed a few settings and unhid it in MCM
+### Updated
+  - Community Shaders - Updated to latest version
+  - Skyrim Unbound Reborn - Updated to latest version with some additional patches included in its FOMOD
+  - JBM LODGen Output - Converted to BC7 compression for better performance and slightly-better visuals
+  - JBM TexGen Output - Reran with new LODGen Output enabled, removed excess files
+*As with every JBM update, it's recommended that you take any files you've changed and add them to a new mod marked **[NoDelete]** to avoid losing them!*
+*A guide for this can be found in #modding-support in the Discord server.*
+
 ## JBM v1.0.7
 *Even bigger update! OMG! Adds some new mods, improves on QoL, improved performance, and lowered default difficulty slightly. Likely not save-compatible but you're welcome to test and verify! I'll try to do it myself as well.*
 ### Added
