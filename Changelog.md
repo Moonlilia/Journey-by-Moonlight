@@ -13,11 +13,14 @@
       * Containers should now have actual interesting loot, not just clutter and paintings
       * As it does its changes at the main menu, it might be save-compatible? Feedback is needed to verify, as distribution may only affect new saves
   - moreHUD - Changed which settings loader version is used to resolve it breaking MCM. Changed a few settings and unhid it in MCM
+  - Subtle Feminine Sprint Animation by Xtudo - Updated conditions to only play without a weapon and outside of combat. Uses Smooth's otherwise
+  - Natural Waterfalls - Gave Simplicity of Sea higher priority to prevent water shaders from messing up
 ### Updated
   - Community Shaders - Updated to latest version
   - Skyrim Unbound Reborn - Updated to latest version with some additional patches included in its FOMOD
   - JBM LODGen Output - Converted to BC7 compression for better performance and slightly-better visuals
   - JBM TexGen Output - Reran with new LODGen Output enabled, removed excess files
+  - Ohmes-Raht Personal Tweaks - Ohmes-Raht are now ~4% smaller. They should be even smaller but I don't wanna overdo it. Let me know though yo
     
 *As with every JBM update, it's recommended that you take any files you've changed and add them to a new mod marked **[NoDelete]** to avoid losing them!*
 *A guide for this can be found in #modding-support in the Discord server.*
