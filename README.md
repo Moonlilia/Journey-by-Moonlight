@@ -148,7 +148,7 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
              		* If your card *does not* support **DirectX 12**, disable **Skyrim Upscaler** in MO2 and delete the **UpscalerBasePlugin** folder in **Journey by Moonlight > Stock Game > Data**
           2. Add the newly-downloaded DLL, or DLLs if using FSR2, to **Journey by Moonlight > Stock Game > Data > UpscalerBasePlugin** and delete **nvngx_dlss.dll**
           3. Next, open up **JBM - INI Files** and **Upscaler INIs**, choose based on the DLL you're using and preference for level of **quality** and **performance**
-          4. Then, in MO2, drop the chosen INI file into **JBM - Skyrim Priority > SKSE > Plugins**
+          4. Then, in MO2, drop the chosen INI file into **JBM - Performance > SKSE > Plugins**
           		* If you would like to verify that it matches, go in-game and press **End** to open the menu, then look through the options
           5. If your screen is shaky, enabling borderless in **SkyrimPrefs.ini** can help resolve the issue
    
@@ -158,6 +158,9 @@ If you don't know how many cores your CPU has, open Task Manager (Ctrl + Alt = D
  * You should see a utilization monitor with some information below. Look for **Cores** and **Logical Processors**. Refer to the image below for help.
 
 <img src="https://github.com/Moonlilia/Journey-by-Moonlight/assets/137309555/d2bec486-0655-4fad-b27a-ae2f97c5ff34" width="600" height="520">
+
+4. One last **optional** step - choosing which **Optional Content** you do/don't want! If you're okay with all things *enabled*, you can skip this step. If not, look through the left panel of MO2 and all separators/categories marked **[Optional]**.
+   	* Specifically, all **OStim** content can be disabled, but be sure to enable the **No OStim** Nemesis Cache if doing so! The other options are largely related to combat or difficulty.
 
 With these steps finished, you should now be able to proceed with launching the game!
 
@@ -173,6 +176,7 @@ With these steps finished, you should now be able to proceed with launching the 
   
 3. Once you've created your character and chosen your preferred pronouns, you should do 2 things...
      1. Open MCM again, click on **- MCM Recorder**, and select the various recordings. Follow the popup prompts and repeat this step until all recordings have played.
+        	* You can skip the **Weather** recording if you'd like - It's a purely-optional change.
      2. Go through the various MCM menus. If you've done Step 1, you *can* skip this step if you're okay with JBM's default settings.
           * If you'd like more customization, it's recommended to go through all options from 0 through 3D - Other options can be used but aren't needed.
               * Options in 0S show up only if you have OStim and its content enabled.
@@ -191,6 +195,7 @@ After you've set up your game to fit your preferences, you can now proceed with 
 
  1. **LoversLab**
        - <a href="https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/">Schlongs of Skyrim</a> - JBM supports OStim content for those who desire it and it needs those appendages. Also, nudity cause it doesn't have to be so taboo :p
+         	* **v1.1.0** onwards will make use of a <a href="https://www.loverslab.com/files/file/23433-schlongs-of-skyrim-ae-no-dll-version/">non-DLL version</a>
        - <a href="https://www.loverslab.com/files/file/11252-gr-equippable-inari-ears-and-tails-se-smp-spaz490-re/">Inari Ears and Tails</a> - Adds animal ears and tails for character creation. Diversifies creation further
        		- *Not included in the release as it isn't whitelisted for Wabbajack, but it's recommended and is an easy addition*
 
@@ -219,6 +224,7 @@ After you've set up your game to fit your preferences, you can now proceed with 
 
  5. **Github**
        - <a href="https://github.com/ArranzCNL/ImprovedCameraSE/releases">Improved Camera</a> - The best first-person camera overhaul available. Great customization as well
+         	* **v1.1.0** onwards makes use of the Nexus release, so treat this as a fallback.
        - <a href="https://github.com/VersuchDrei/OSA-SE/releases/tag/1.3">OSA for OStim</a> - Important addon for OStim
 
  6. **Patreon**
