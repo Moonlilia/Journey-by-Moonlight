@@ -136,7 +136,7 @@ Some files from **LoversLab** and **VectorPlexis** can be installed from the <a 
           * Then, transfer all 3 files (Skyrim.ini, SkyrimCustom.ini, and SkyrimPrefs.ini) to **Journey by Moonlight > Profile > Default**
             
      2. Open the **Priority INIs** folder and choose your total CPU cores. Open the MO2 instance for the modlist as well!
-          * In MO2, navigate to the **High Priority - Modlist Files** separator and the **JBM - Skyrim Priority** mod
+          * In MO2, navigate to the **High Priority - Modlist Files** separator and the **JBM - Performance** mod
           * Right-click the mod and click **Open in Explorer**, navigate **SKSE > Plugins** and drop it in there, replacing the existing file
           * Refer to the image below for assistance
 
@@ -255,8 +255,6 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
       ## Archery
       - **Bow Rapid Combo** - Adds new attack types to bows, making a bow-only build more viable and *fun*
       - **Bow Charge Plus** - Bows can charge up to deal more damage, further diversifying archery
-      - **Skyrim Arrow Overhaul** - Big overhaul to archery, adding complexity and furthering roleplay opportunities
-         - Also makes use of a patch collection of mine :)
 
       ## Magic
       - **Phenderix Elements** - Adds a new progressive spell-learning system with elemental forms
@@ -338,7 +336,6 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
 	  - **Unmarked Locations Pack** - Adds a plethora of new locations to stumble upon, with their own secrets
 	  - **Schlitzohr** - Includes various lore-friendly settlements to further flesh out the world 
 	  - **RYFTEN** - A performance-friendly and fully-modular overhaul of Riften
-	  - **Ryn's Whiterun City Limits** - A huge overhaul of the area surrounding Whiterun 
 	  - **Solitude Docks Updated** - Makes the docks outside Solitude a little more interesting 
 	  - **RubberSpaghetti** - Uses Spaghetti's AIO overhauls of cities, towns, and Solstheim
 	  - **Northern Farmhouses + COTN** - Gives new meshes to buildings for a fresher and fantastical-look
@@ -366,10 +363,11 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
 - **Weight** - Options modify weight for coins and overall carry weight (harsher than SunHelm) to encourage planning and decision-making 
 - *If **Weight A Minute** is enabled, **DO NOT** enable SunHelm's carry weight modifier!
 - *SunHelm also provides carry weight for arrows, which can be disabled if preferred*
-- **Regen Cap** - Specifically configured to slow health regen significantly, can be altered easily however
 - **Sinister Seven** - Adds new bosses which will hunt you down as you grow stronger
 	- *Comes with quest entry changes made by me for more immersion
 	- *Also includes a recording in **MCM Recorder** for a special configuration
+ - **Skyrim Souls** - Unpauses some game menus for more on-the-fly decision-making.
+   	- *Specially-configured*! Some menus are left paused while unpaused menus slow time down slightly
 		
 	### Combat
 	- **Wounds** - Adds combat injuries, specially-configured to not be a total hassle
@@ -377,6 +375,14 @@ Being a modlist of 2k+ mods, there's bound to be plenty of notable mods. For a l
 		- *Comes with its Armor addon to encourage a diverse build, but not necessarily require it like other mods with the same goal*
 	- **Shadow of Skyrim** - A death overhaul, favoring robbery over death. Highly-configurable and recommended to view before Starting
 		- *Disabled by **Default** but notifies you at the start of the game*
+  	- **Large Stagger Anims** - Replaces POISE's medium stagger with a large stagger when the meter empties to encourage dodging more often
+
+     	### Experience
+   	- **Four** options are provided for further customization.
+   	  * **Easy** - The default settings of Experience. Decent exp from most sources and a high level cap
+   	  * **Medium** - Balanced settings. Exp gain is higher from more difficult content, less-so for easier things
+   	  * **Hard** - The JBM *default*. Exp gain is higher for difficult things, much lower for others, and a balanced level cap.
+   	  * **Hardcore** - Slow Your Roll's config. Significanlty-lower exp across the board and a low level cap. Very brutal.
 	
 ## OStim
 - **OStim** content is supported in JBM. It's enabled by default but can be safely and easily-disabled for those who'd prefer not to.
