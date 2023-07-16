@@ -1,6 +1,261 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.1.0
+*A massive update to JBM! Provides plenty of new mods, fixes, updates, improvements, performance tweaks, modularity improvements, and so on.*
+### Added
+  - Slightly Better Honey Nut Treat
+    * An improvement to one of the most-overlooked and most-heinous objects in the game!
+  - HS Player Homes Hjerim + Lux Patch
+    * Another of HS's wonderful player home overhauls
+  - NPC Stuck in Bleedout Fix
+    * Yet another great fix from wSkeever for vanilla problems
+  - Spectris
+    * The amazing **Pentapox** has released another audio overhaul so of course it's included!
+  - Lenny's Eidar Cheese Wedge
+    * A new mesh and texture for one of the goofy cheese wedges that gets ignored
+  - NPC Parry Stagger Overhaul
+    * New animations for combat :D
+  - Dynamic Sprint
+    * Smooth's latest sprint animation rework, shipped with proper transition animations
+  - Impactful Blocking
+    * This existed in JBM before its release but was removed due to issues. Said issues are no longer present, so I added it back :)
+  - DPI Scaling Fix
+    * A new and useful utility-type mod from Doodlezoid
+  - Aura's Inventory Tweaks
+    * Great new changes for the inventory
+  - Object Categorization Framework
+    * Required as a master
+  - Green Water Cubemap Fix
+    * Another nice fix from wSkeever
+  - Heart of Dibella Quest Expansion
+    * Improvements on a vanilla questline
+  - CO 61 Converus Bugfix
+    * Resolves a crash some players can run into when using Community Overlays
+  - Simplest Witcher Horses
+    * A patch between Simplest Horses and Witcher Horses
+  - Sweets and Such ESPFE
+    * A simple ESPFE conversion of Sweets and Such
+  - Sorcerer
+    * A great new Simonrim addition
+  - Xelzaz
+    * One of the best custom companions available!
+  - Improved Follower Dialogue Lydia
+    * Makes Lydia more of a companion and less of a lame old NPC
+  - Bijin's Lydia
+    * New look for Lydia
+  - Pandorable's Black-Briar Ladies, Dashing Defenders, Shield Sisters, and Warrior Women
+    * New looks for multiple NPCs
+  - Koralina's Jordis Replacer
+    * New look for Jordis
+  - Subclasses of Skyrim + SE Downgrade
+    * A mod I wanted to include but couldn't due to SE restrictions, now available for SE thanks to a backport
+  - Spaghetti's Orc Strongholds AIO
+    * One of the finalized amazing AIO overhauls from Spaghetti
+  - aljo's Skyrim Unbound Addons
+    * Adds new spell options to Unbound's starting list
+  - Charming Nirnroot
+    * New textures and models for Nirnroot, plus glowing effects
+  - TM's Nirnroot Sound Replacer
+    * Ribbit ribbit...
+  - Moonlilia's SPID Compendium
+    * That's right, I included one of my own mods! Distributes some outfits which weren't very present via SPID
+  - Know Your Enemy 2 + Armors and Integration
+    * Newest version of KYE with some improvements
+  - Large Stagger Animations for Loki's Poise
+    * A JBM addon to replace medium stagger with large stagger animations when Poise empties
+    
+### Fixed
+ - Improved Camera SE
+   * Fixed an issue which could cause crashes and fixed the jittery stopping
+ - Flat World Map Framework (FWMF)
+   * Fixed the map not working for some users (hopefully!)
+ - Lux Patches
+   * Moved in load order to ensure changes are given priority
+ - Gear Spreader
+   * Forced whitelist usage over a blacklist to prevent goofy distribution, like NSFW items. Much more consistent now, I'd say
+ - Experience
+   * Fixed an issue with the default INI having a max level of 0.
+ - Nemesis
+   * Fixed the **No OStim** cache not working
+ - Schlongs of Skyrim
+   * Removed Werewolf anatomy (lmao) and updated to a new version to prevent crashes, see below
+ - Modern Combat AI
+   * Moved lower to let Lawless override
+ - Photo Mode
+   * Resolved an issue with Skyrim Upscaler which could cause crashes
+ - Poise
+   * Fixed player poise health and NPC damage. It's more consistent and balanced
+ - Regen Cap
+   * Removed from optional as changes are encouraged to handle via MCM. Also fixed the infinite stamina and magicka issue, I hope
+ - Valhalla Combat
+   * Added stamina cost to attacks to counter goofy stamina regen and make combat a little more engaging
+ - Northern Roads
+   * Made fixes with a JBM-specific patch
+ - EVG Animation Variance
+   * Removed torch animations as they cause crashes
+ - Immersive Equipment Displays
+   * Fixed the keybind, now it's mapped to Shift + Backspace instead of just Backspace
+ - N.U.D.E
+   * Lowered the timer for underwear application to counter unintentional nudity
+ - HIMBO
+   * Removed Hide Armor refits as they clipped too much. Made physics a little more rigid to counter goofy behavior
+ - CBBE 3BA
+   * Adjusted physics to be a little more rigid
+ - CBPC Equipment
+   * Adjusted physics to be more rigid
+ - Fairies
+   * Created a small patch to adjust sounds, so they don't sound like demons wishing to steal your soul. That's not as cute!
+ - Synthesis Outputs
+   * Fixed wonky distribution from the OWL output. Also removed a patcher as it broke some things
+ - Read the Room
+   * Now only activates on the hotkey as other options cause issues
+ - Meta Files for Non-Nexus Links
+   * Thanks to Geborgen, meta files should now properly-direct. Thanks again!
+ - Traverse the Ulvenwald
+   * Fixed some shrubs and trees swapping to winter variants in Autumn
+ - Erdtree Gildergreen Replacer
+   * Fixed the tree not being allowed to load in due to DynDOLOD and Ulvenwald
+ - Moonlilia Graphics for JBM
+   * Fixed an issue with a couple textures not having proper normal maps
+
+### Updated
+ - Dynamic Weather and Time Detection Settings Loader
+   * Updated to latest version
+ - TB's Carrot Cake
+   * Updated to latest version. Now distributes carrot cake across Skyrim!
+ - Lux
+   * Updated to latest version
+ - Skyrim Upscaler
+   * Updated to latest version. Updated INI files to match
+ - Gore
+   * Updated to latest version
+ - Immortui
+   * Updated to latest version
+ - Sure of Stealing
+   * Updated to latest version
+ - Precision Creatures
+   * Updated to latest version
+ - Northern Roads Patch Collection
+   * Updated to latest version
+ - Northern Roads Patch Collection Addons
+   * Updated to latest version
+ - Northern Roads Patch Compendium
+   * Updated to latest version
+ - Northern Roads JBM Moonlilia Fixes
+   * Updated to match new patches and removed ones
+ - Bow Rapid Combo
+   * Updated to latest version
+ - OpenSex Addon Hub
+   * Updated to latest version
+ - OStim Lovers
+   * Updated to latest version
+ - ER Moveset
+   * Updated to latest version
+ - JBM Skyrim Priority
+   * Renamed to **JBM - Performance** for clarity as it includes INIs related to performance, not just Skyrim Priority
+ - JBM INI Files
+   * Updated Profile INIs so NPCs use ammo and updated Upscaler INIs for the latest version of Skyrim Upscaler
+ - Moonlilia Graphics for JBM
+   * Added new textures and updated some existing ones
+ - Traverse the Ulvenwald
+   * Updated to latest version
+ - Thaumaturgy
+   * Updated to latest version
+ - Hand to Hand
+   * Updated to latest version
+ - Adamant
+   * Updated to latest version
+ - Apothecary
+   * Updated to latest version
+ - Mundus
+   * Updated to latest version
+ - Mysticism
+   * Updated to latest version
+ - Aetherius
+   * Updated to latest version
+ - SSE FPS Stabilizer
+   * Changed to medium settings for better performance
+ - Faster HDT-SMP
+   * Updated to latest version. Uses performance settings too
+ - CBBE
+   * Updated to latest version
+ - Remiel + BiR Replacer
+   * Updated to latest version
+ - Serana Dialogue Add-On
+   * Updated to latest version
+ - Serana Dialgoue Add-On Patch Hub
+   * Updated to latest version
+ - Auri's Kaidan Banter Patch
+   * Updated to latest version
+ - JBM Difficulty Options
+   * Moved some options around and added a separator for Experience INIs
+ - Vulcano
+   * Updated to latest version
+ - Lunaris
+   * Updated to latest version
+ - Natura
+   * Updated to latest version
+ - Natura Spriggans
+   * Updated to latest version
+ - Praedy's Staves AIO Patch Hub
+   * Updated to latest version
+ - Bloodmoon
+   * Updated to latest version
+ - EasyNPC Merge
+   * Updated to use new NPC replacers
+ - LODGen for JBM
+   * Updated for new changes
+ - TexGen for JBM
+   * Updated for new changes
+ - DynDOLOD for JBM
+   * Updated for new changes. Options are provided for **Quality** and **Performance**
+ - Bodyslide for JBM
+   * Updated for new changes. Now auto-downloads to make the .wabbajack file smaller
+ - Phoenix Compendium
+   * Reinstalled and added in its new music
+
+### Removed
+ - Kabu's Frost Salts
+   * Removed as it doesn't work as well without ENB
+ - Mirayasu Map Markers
+   * Low resolution textures
+ - Sons of Skyrim SPID Housecarls
+   * Conflicted with the SPID Compendium but otherwise does the same thing, just with different armors
+ - Ryn's Valtheim Towers
+   * Breaks AI in the area
+ - Ryn's Whiterun City Limits
+   * Very heavy on performance due to added clutter
+ - Ryn's Bleakwind Basin
+   * Amps up difficulty *far* too much
+ - Scarcity
+   * Implementation isn't quite right for the goals of JBM
+ - Wait Your Turn
+   * No longer needed
+ - Tamaska Werewolf Replacer
+   * New mesh messed up animations
+ - Know Your Enemy Redux
+   * Removed in favor of the newest version of Know Your Enemy
+ - Turn of the Seasons Happy Little Trees
+   * Removed as HLT is no longer used
+ - Happy Little Trees
+   * Removed as its changes don't show up due to Ulvenwald
+ - Happy Little Trees DLC Base Object Swapper
+   * Removed as HLT is no longer used
+ - Happy Little Shrubs
+   * Removed the esp, kept its meshes and textures
+ - Happy Little Trees Alternate Stumps
+   * Removed the esp, kept its meshes and textures
+ - Skyrim Arrow Overhaul
+   * Quiver script causes far too many problems and brought confusion. Arrow options were overwhelming and harmed build variety. Feature creep
+ - 2K SMIM Whiterun Stockade
+   * Removed as it's overwritten by my custom visuals
+ - Markarth Outskirts
+   * Very heavy on performance
+
+## JBM v1.0.9
+ *Very small update exclusive to the **Discord** server. Provided some fixes and improvements but nothing big.*
+ 
 ## JBM v1.0.8
 *Small improvements to some features. Updates to LODGen and TexGen Outputs for improved performance. Should be save-compatible, technically. See below!*
 ### Added
