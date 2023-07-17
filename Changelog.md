@@ -3,6 +3,7 @@
 
 ## JBM v1.1.0
 *A massive update to JBM! Provides plenty of new mods, fixes, updates, improvements, performance tweaks, modularity improvements, and so on.*
+**Big thanks to Alabast and Geborgen as well! This update shrinks the *.wabbajack* file down from ~3gb to just 500mb due to their help**
 ### Added
   - Slightly Better Honey Nut Treat
     * An improvement to one of the most-overlooked and most-heinous objects in the game!
