@@ -1,6 +1,63 @@
 # Changelog for Journey by Moonlight
 *The changelog here will offer more detail than what is provided in the Discord channel. If you're curious on the specifics, feel free to check here!*
 
+## JBM v1.1.1
+*Small update with some minor fixes, improvements, and additions. One such addition is a new <a href=https://www.nexusmods.com/skyrimspecialedition/mods/94378>DynDOLOD output<a> with a stronger focus on quality*
+### Added
+ - ElSopa Animated Celtic Icons for SkyUI
+    * Added in as **Optional Content**. Choose between animated icons or icons which match the UI's color palette
+ - Unplayable Faction Armors ESLified and RMB SPIDified
+    * Provides better compatibility for Unplayable Faction Armors and saves an esp slot
+ - Khajiit Char Gen Extended
+    * Adds more RaceMenu sliders for Khajiit. I've also fixed the English translation
+ - Whiterun Objects SMIMed Dragonsreach Stairs
+    * Upgrades the mesh for the stairs up to Dragonsreach
+ - Vibrant Map Markers
+    * I changed up how the paper map looks and these markers look pretty
+ - Hornophobic's Shield-Sisters and Ulfric Replacer
+    * Replacers for a few NPCs
+ - Whiterun Wooden Walls Replacer
+    * **Optional content**. Replaces Whiterun's interior walls with wood, instead of plaster
+      
+### Fixed
+ - eFPS
+    * Added a patch to fix a faulty occlusion plane in Falkreath
+ - Northern Roads
+    * Updated the JBM patch to smooth out some seams in Falkreath Hold
+ - FWMF
+    * Removed unused seasonal variants as they were causing issues for some users
+ - FWMF Caro Tuts Paper Map
+    * Switched the map to one without Hold icons and titles, as they clashed with map markers too much
+ - LODGen
+    * Updated with optimized meshes and textures
+ - TexGen
+    * Updated with optimized textures
+ - DynDOLOD
+    * Renamed the **Quality** version to **Balanced** and updated it for better optimization.
+    * A new **Quality** output is also available, from JBM's files page. See above for a link
+ - Bashed Patch
+    * Rebuilt and fixed a couple notable errors, like some outfits not having torso armor
+
+### Updated
+ - Unplayable Faction Armors
+    * Switched to the standalone version for RMB SPIDified
+ - Spaghetti's Orc Strongholds AIO
+    * Updated to the latest version to fix duplicate formIDs
+ - Fish Plaque Fixes and Improvements
+    * Updated to latest version
+ - Scorching of Skeevers
+    * Updated to latest version
+ - Universal Cured Eye Serana Fix
+    * Updated to latest version
+ - Skyrim Objects SMIMed Noble Furniture
+    * Updated to latest version
+ - The Welkynar Knight
+    * Updated to latest version
+ - Belethor's Sister
+    * Updated to latest version
+ - eFPS Unofficial Patch Hub
+    * Updated to latest version for the Northern Roads patch for better performance and removal of faulty occlusion planes
+
 ## JBM v1.1.0
 *A massive update to JBM! Provides plenty of new mods, fixes, updates, improvements, performance tweaks, modularity improvements, and so on.*
 **Big thanks to Alabast and Geborgen as well! This update shrinks the *.wabbajack* file down from ~3gb to just 500mb due to their help**
